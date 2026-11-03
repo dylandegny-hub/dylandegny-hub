@@ -35,4 +35,4 @@ Automated cost monitoring system using five AWS services working together.
 - IAM least-privilege design
 
 ## Certifications
-- Working toward AWS Certified Cloud Practitioner
+AWS Certified Cloud Practitioner
