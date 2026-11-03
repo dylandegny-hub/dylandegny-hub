@@ -4,7 +4,7 @@
 
 
 -->
-🔭 I’m currently working on Finding Employment in the Cloud/IT industry
+🔭 I’m currently working on different projects that solve real worl problems in the Cloud/IT industry
 🌱 I’m currently learning Cloud Computing
 👯 I’m looking to collaborate on Cloud Projects
 💬 Ask me about Anything
